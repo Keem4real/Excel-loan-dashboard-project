@@ -1,6 +1,8 @@
 ## Loan Default Risk Analysis Dashboard
 # Project Overview
 
+### DASHBOARD LINK ; https://mega.nz/file/s2pzSYYQ#-nIBablIxR0pG7Bqo7JUGnt9eccAMJXgbx-D7u2FjME
+
 This project focuses on analyzing borrower data to identify patterns and risk factors associated with loan defaults. The dataset contains demographic, financial, and credit-related attributes of loan applicants, enabling the exploration of relationships between borrower characteristics and repayment behavior.
 
 The primary goal of the analysis is to support data-driven decision-making in credit risk management by identifying key indicators that influence whether a borrower is likely to default on a loan.
